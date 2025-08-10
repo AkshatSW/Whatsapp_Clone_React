@@ -24,5 +24,5 @@ npm run dev
 ```
 
 ## Deployment
-- Backend is ready for Render/Heroku (uses PORT and MONGO_URI env vars)
-- Frontend is Vite/React; deploy to Vercel or Render static site. Set `VITE_API_URL` env var to the backend URL.
+- Backend is deployed on render
+- Frontend is Vite/React; deployed to Vercel
